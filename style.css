@@ -3,6 +3,14 @@ body {
     background-color: black;
 }
 
+img {
+
+border-radius: 0,5rem
+
+}
+
+
+
 h1 {
   color: whitesmoke;
   background-color: slategrey;
